@@ -1,0 +1,4 @@
+/source/private/.env
+/source/logs
+**/__pycache__
+/TestFunctions
