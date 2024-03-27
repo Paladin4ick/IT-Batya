@@ -1,1 +1,2 @@
-<h1>Telegram bot based on aiogram for IT community</h1>
+# IT Batya
+Telegram bot based on aiogram for IT community
